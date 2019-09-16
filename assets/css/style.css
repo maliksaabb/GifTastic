@@ -4,7 +4,7 @@ body{
     margin: auto;
     color:maroon;
     font-size: 30px;
-    background-image: url();
+    background-image: url("../image/wetlands.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: Georgia, 'Times New Roman', Times, serif
