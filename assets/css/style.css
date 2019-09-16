@@ -4,10 +4,11 @@ body{
     margin: auto;
     color:maroon;
     font-size: 30px;
-    background-image: url("../image/wetlands.jpeg");
+    background-image: url("https://66.media.tumblr.com/17ae4ed2671f524e6fee738e6fb9aeb2/tumblr_pg55q9MR8Z1qavxgpo1_1280.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment:fixed;
     font-family: Georgia, 'Times New Roman', Times, serif
+    
     }
 
 
