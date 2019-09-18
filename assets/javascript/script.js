@@ -1,13 +1,13 @@
 $(document).ready(function() {
     // Initial array
-       var animalsArray = ["cat", "dog", "bird"];
+       var animalsArray = ["cat", "dog", "snake","dinosaur","bear","wolf"];
        
      function displayAnimalGifs(){
         $("#images-display").empty();
         var animalClick = $(this).attr("data-name");
         var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
         animalClick + "&api_key=PajvN9dlza2xbKVW1FiagasR05aKqyaL";
-  
+   
         $.ajax({
           url: queryURL,
           method: "GET"

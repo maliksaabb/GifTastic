@@ -2,12 +2,12 @@ body{
     text-align: center;
     max-width:1000px;
     margin: auto;
-    color:maroon;
     font-size: 30px;
     background-image: url("https://img2.storyblok.com/4098x1200/smart/filters:format(jpeg)/f/53624/4096x1260/83491bb1cb/tws_4096x1260.png");
     background-repeat: no-repeat;
     background-attachment:fixed;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: 'frijole';
+    
     
     }
 
@@ -25,5 +25,9 @@ body{
     .btn-primary {
         margin: 5px;
         
+        
     }
+     #images-display{
+         column-count: 2;
+              }
     
